@@ -18,6 +18,7 @@
 - [🚀 Melhorias Futuras](#-melhorias-futuras)
 - [👨‍💻 Autor](#-autor)
 - [📄 Licença](#-licença)
+- [👥 Créditos & Contatos](#-créditos--contatos)
 
 ---
 
