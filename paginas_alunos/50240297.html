@@ -1,0 +1,79 @@
+
+    <html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <title>Notas do aluno Davi Dancuart Cavalcante - Matriculado</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                background-color:#f0f0f0;
+                display: flex;
+                flex-direction: column;
+                align-items: center; /* Centraliza horizontalmente */
+                justify-content: flex-start; /* Alinha ao topo */
+                min-height: 100vh;
+                margin: 0;
+                padding: 40px 20px; /* Espaço do topo e laterais */
+            }
+            h2 {
+                color:#333;
+                text-align: center;
+                margin-bottom: 20px;
+            }
+            table {
+                border-collapse: collapse;
+                width: 60%;
+                margin-bottom: 20px;
+                box-shadow: 0 0 10px rgba(0,0,0,0.1);
+                background: #fff;
+            }
+            th, td {
+                padding: 12px 15px;
+                border: 1px solid #ddd;
+                text-align: center;
+            }
+            th {
+                background-color: #38CFFF;
+                color: white;
+            }
+            .nota-vermelha {
+                color: red;
+                font-weight: bold;
+            }
+            .nota-azul {
+                color: blue;
+                font-weight: bold;
+            }
+            #btnPdf {
+                padding: 10px 20px;
+                background-color: #0063DB;
+                color: white;
+                border: none;
+                border-radius: 5px;
+                cursor: pointer;
+                font-size: 16px;
+            }
+            #btnPdf:hover {
+                background-color: #0051DB;
+            }
+        </style>
+    </head>
+    <body>
+        <h2>Aluno: Davi Dancuart Cavalcante - Matriculado (Código: 50240297) - Turma: 2IID</h2>
+        <table>
+            <tr>
+                <th>Disciplina</th>
+                <th>Nota</th>
+            </tr>
+    <tr><td>IPC</td><td><span style="color:blue;">7.0</span></td></tr><tr><td>LE</td><td><span style="color:blue;">8.0</span></td></tr><tr><td>REDES</td><td><span style="color:red;">0.0</span></td></tr><tr><td>JOGOS</td><td><span style="color:blue;">10.0</span></td></tr><tr><td>SC</td><td><span style="color:blue;">6.0</span></td></tr>
+            <tr>
+                <th>MÉDIA AT FINAL</th>
+                <th><span style="color:blue;">6.2</span></th>
+            </tr>
+        </table>
+
+        <!-- Botão para PDF (funcionalidade pode ser ligada via JS ou backend) -->
+        <button id="btnPdf" onclick="window.print()">Gerar PDF</button>
+    </body>
+    </html>
+    
