@@ -244,20 +244,6 @@ paginas_alunos/
 
 ---
 
-# 👨‍💻 Autor
-
-**Seu Nome Aqui**
-
-Desenvolvedor focado em:
-
-- Automação com Python
-- Manipulação de dados
-- Integração backend + frontend
-- Geração dinâmica de relatórios
-- Estruturação de sistemas escaláveis
-
----
-
 # 📄 Licença
 
 Projeto desenvolvido para fins educacionais.
@@ -268,6 +254,6 @@ Projeto desenvolvido para fins educacionais.
 
 1. <b>Mateus Todeschini</b> - GitHub: https://github.com/Todeschiniii<br>
 2. <b>Heitor Pinheiro</b> - GitHub: https://github.com/HeitorPinheiro11<br>
-3. <b>Davi Dancuart<b> - GitHub: https://github.com/DaviDancuart<br>
+3. <b>Davi Dancuart</b> - GitHub: https://github.com/DaviDancuart<br>
 
-Repositório: https://github.com/AEV-autoescola-Virtual/Simulador-de-Carro-teste
+Repositório: https://github.com/Todeschiniii/POO-Python-4bimestre
