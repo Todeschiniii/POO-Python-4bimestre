@@ -264,7 +264,7 @@ Projeto desenvolvido para fins educacionais.
 
 ---
 
-# # 👥 Créditos & contatos
+# 👥 Créditos & contatos
 
 1. <b>Mateus Todeschini</b> - GitHub: https://github.com/Todeschiniii<br>
 2. <b>Heitor Pinheiro</b> - GitHub: https://github.com/HeitorPinheiro11<br>
